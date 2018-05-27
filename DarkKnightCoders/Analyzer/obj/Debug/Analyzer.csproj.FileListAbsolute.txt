@@ -1,0 +1,6 @@
+C:\Users\lnc\source\repos\DarkKnightCoders\Analyzer\bin\Debug\Analyzer.dll
+C:\Users\lnc\source\repos\DarkKnightCoders\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\lnc\source\repos\DarkKnightCoders\Analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+C:\Users\lnc\source\repos\DarkKnightCoders\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\lnc\source\repos\DarkKnightCoders\Analyzer\obj\Debug\Analyzer.dll
+C:\Users\lnc\source\repos\DarkKnightCoders\Analyzer\obj\Debug\Analyzer.pdb
